@@ -10,5 +10,10 @@ Predict house prices using California Housing dataset.
 - Dataset loading
 - Exploratory Data Analysis
 - Correlation analysis
+## Model Performance
 
-More updates coming...
+- RMSE: 0.745
+- R² Score: 0.576
+
+The model explains approximately 57% of the variance in house prices.
+
